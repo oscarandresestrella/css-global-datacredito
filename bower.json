@@ -1,0 +1,20 @@
+{
+  "name": "datacredito-css-global",
+  "authors": [
+    "opabonestrella <opabon@stt.com.co>"
+  ],
+  "description": "",
+  "main": "global.css",
+  "keywords": [
+    "css"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
